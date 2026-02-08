@@ -161,14 +161,6 @@ Permission is hereby granted for academic and research use only, subject to the 
 ---
 
 
-## 🔗 References
-
-1. TuSimple Lane Detection Challenge Dataset (2017)
-2. Redmon, J., & Farhadi, A. (2018). YOLOv3: An Incremental Improvement
-3. Canny, J. (1986). A Computational Approach to Edge Detection
-4. Hough, P. V. C. (1962). Method and means for recognizing complex patterns
-
----
 
 <div align="center">
 
