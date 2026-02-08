@@ -1,0 +1,2 @@
+# Robust-Lane-and-Obstacle-Detection-for-ADAS-Using-Feature-based-Preprocessing
+This project presents an ADAS for lane and obstacle detection under challenging real-world driving conditions. It combines classical computer vision techniques with deep learning–based approaches to improve detection reliability in environments affected by noise, poor lighting, weather conditions, and degraded road markings.
